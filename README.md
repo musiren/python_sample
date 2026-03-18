@@ -1,26 +1,26 @@
 # Python Sample
 
-자주 사용하는 파이썬 모듈에 대한 예제 코드를 정리한 저장소입니다.
+A repository for organizing example code of frequently used Python modules.
 
-## 목적
+## Purpose
 
-파이썬 개발 시 자주 활용하는 표준 라이브러리 및 서드파티 모듈의 사용법을 예제 코드로 정리하여, 빠르게 참고할 수 있도록 합니다.
+This repository provides example code for commonly used standard libraries and third-party Python modules, making it easy to reference them quickly during development.
 
-## 구성
+## Structure
 
-각 모듈별로 디렉토리를 구성하여 예제 코드를 관리합니다.
+Examples are organized by module in separate directories.
 
 ```
 python_sample/
 ├── README.md
-├── 모듈명/
-│   ├── README.md    # 모듈 설명 및 사용법
-│   └── example.py   # 예제 코드
+├── module-name/
+│   ├── README.md    # Module description and usage
+│   └── example.py   # Example code
 └── ...
 ```
 
-## 기여 방법
+## Contributing
 
-1. 새로운 모듈 예제를 추가할 경우 해당 모듈명으로 디렉토리를 생성합니다.
-2. 예제 코드는 간결하고 이해하기 쉽게 작성합니다.
-3. 가능하면 주석을 통해 코드의 동작을 설명합니다.
+1. Create a new directory named after the module when adding new examples.
+2. Keep example code concise and easy to understand.
+3. Add comments to explain how the code works whenever possible.
